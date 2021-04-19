@@ -6,6 +6,7 @@ This project is aimed at generating insights for groups such as data journalists
 
 
 Data sources:
+
 https://data.census.gov/cedsci/table?g=0100000US.050000&tid=ACSDP5Y2019.DP05&hidePreview=false
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
