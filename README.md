@@ -6,11 +6,11 @@ This project is aimed at generating insights for groups such as data journalists
 
 
 Data sources:
-•	https://data.census.gov/cedsci/table?g=0100000US.050000&tid=ACSDP5Y2019.DP05&hidePreview=false
-•	https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
+https://data.census.gov/cedsci/table?g=0100000US.050000&tid=ACSDP5Y2019.DP05&hidePreview=false
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
 This repository does not include data (can be accessed in the links above) but does include the following files:
 
-•	.rmd file giving our code
-•	.pdf file giving the output of our knitted RMD files
-•	.docx file containing a detailed write up of our methods and results
+.rmd file giving our code
+.pdf file giving the output of our knitted RMD files
+.docx file containing a detailed write up of our methods and results
