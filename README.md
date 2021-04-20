@@ -11,6 +11,12 @@ https://data.census.gov/cedsci/table?g=0100000US.050000&tid=ACSDP5Y2019.DP05&hid
 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
+
+Because of the complexity of the column names in the Census data, we decided to save time by eliminating some of the columns manually on Excel. Our code shows how to clean the dataset; however, you can use the csv on the Google Drive link to get the final version of the merged dataset we used in our analysis:
+
+https://drive.google.com/file/d/1DFUoakVANu2OmuyBWuFuncjnrP5RgkUu/view?usp=sharing
+
+
 This repository does not include data (can be accessed in the links above) but does include the following files:
 
 .r file giving our code
