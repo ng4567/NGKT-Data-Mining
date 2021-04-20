@@ -13,8 +13,6 @@ https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
 This repository does not include data (can be accessed in the links above) but does include the following files:
 
-.rmd file giving our code
+.r file giving our code
 
-.pdf file giving the output of our knitted RMD files
-
-.docx file containing a detailed write up of our methods and results
+.pdf file containing a detailed write up of our methods and results
